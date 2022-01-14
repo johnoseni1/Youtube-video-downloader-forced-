@@ -1,5 +1,5 @@
 # Force doenload (youtube, udemy, e.t.c.)
-A feed video downloader for Youtube
+A feed video downloader for Youtube, udemy, e.t.c
 
 Feedtube is for you if:
 
